@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiiy" alt="amiiy" /></a> </p>
 
-- 🔭 I’m currently working on **NestJS, AWS, Serverless, python, Azure DevOps**
+- 🔭 I’m currently working on ** AWS, Serverless, Azure DevOps**
 
-- 🌱 I’m currently learning **Go Lang, AWS, Google Cloud**
+- 🌱 I’m currently learning ** AWS and Google Cloud**
 
-- 👯 I’m looking to collaborate on **Solidity, Blockchain, Cloud**
-
-- 👨‍💻 All of my projects are available at [amiy.me](amiy.me)
-
-- 📝 I regularly write articles on [amiy.me](amiy.me)
+- 📝 I [not]regularly write articles on [amiy.me](amiy.me)
 
 - 💬 Ask me about **NodeJS, AWS**
 
